@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(orange,red) ;
+}
+
+h1{
+    color: yellow;
+}
+
+li{
+    background-color: lightgreen
+    
+}
+
+p {
+    color: lightgreen
+}
